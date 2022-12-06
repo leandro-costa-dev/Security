@@ -71,6 +71,7 @@ public class SwaggerConfig {
                 .securityReferences(defaultAuth())
                 .forPaths(PathSelectors.any())
                 .build();
+        //Teste
     }
 
 }
