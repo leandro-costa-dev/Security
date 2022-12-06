@@ -16,7 +16,7 @@ spring:
       path: /h2-console
 security:
   jwt:
-    expiracao: 1
+    expiracao: 30
     chave-assinatura: dGVzdGU=
 
 
